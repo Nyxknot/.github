@@ -2,8 +2,6 @@
 
 # Nyxknot
 
-![](https://komarev.com/ghpvc/?username=duisternis&color=lightgrey&style=flat-square&abbreviated=true)
-
 Random projects on random stuffs.
 
 
