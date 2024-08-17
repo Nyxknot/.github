@@ -11,7 +11,7 @@ Random projects on random stuffs.
 
 | S.No | Project Name | Repo             | Link           | Status   |
 |------|--------------|------------------|----------------|----------|
-| 1.   | Portfolio    | portfolio-web    | [[click here]](https://twitter.com/)   | 🚧 |
+| 1.   | Portfolio    | portfolio-web    | [[click here]](https://github.com/Nyxknot/portfolio-web)   | 🚧 |
 | 2.   | Portfolio    | portfolio-server | [coming soon] | 🚧 |
 
 ## Author
