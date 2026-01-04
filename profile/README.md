@@ -17,4 +17,3 @@ Random projects on random stuffs.
 ## Author
 
 [@duisternis](https://www.github.com/duisternis)
-![](https://komarev.com/ghpvc/?username=NyxKnot)
