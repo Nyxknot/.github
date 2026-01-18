@@ -1,6 +1,4 @@
-<img src="/Nyxknot.gif" width="100%">
-
-# Nyxknot
+# raftlog
 
 Random projects on random stuffs.
 
